@@ -1,0 +1,4 @@
+mcp==2.3.0
+pydantic>=2.7,<3
+anyio>=4,<5
+pytest>=8,<9
